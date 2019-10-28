@@ -1,0 +1,1 @@
+OS File Management - File management is a basic an important feature of the operating system. The OS allows you to organize your files so that you can easliy access them. Additionally you can create a folder hierarchy structure that allows you to further organize your files making them easier to find and search for when needed.
